@@ -13,7 +13,6 @@ robot.reverse(1)
 robot.reverse(1)
 robot.reverse(1)
 
-     
 camera.stop_recording()
 
 
